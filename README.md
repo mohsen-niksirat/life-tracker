@@ -2,7 +2,7 @@
 
 یه اپ تک‌فایل HTML برای مدیریت اهداف، ردیابی پیشرفت، و سازماندهی زندگی با ساختار درختی نامحدود.
 
-🔗 **دمو آنلاین:** [GitHub Pages](https://niksiratforex-ux.github.io/life-tracker/)
+🔗 **دمو آنلاین:** [GitHub Pages](https://mohsen-niksirat.github.io/life-tracker/)
 
 📱 **نصب PWA:** لینک رو توی مرورگر موبایل باز کن → Add to Home Screen
 
@@ -255,7 +255,7 @@ cd android && ./gradlew assembleDebug
 
 **Mohsen Niksirat**
 
-- GitHub: [@niksiratforex-ux](https://github.com/niksiratforex-ux)
+- GitHub: [@niksiratforex-ux](https://github.com/mohsen-niksirat)
 - Telegram: [@mohsenniksirat](https://t.me/mohsenniksirat)
 
 ---
